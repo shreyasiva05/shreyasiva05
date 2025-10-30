@@ -7,7 +7,6 @@ I am seeking **Developer** roles where I can leverage my experience in **AI/ML**
 *🌱 I'm currently building with technologies like Agentic AI , TensorFlow , and Terraform.
 * 💞️ I’m seeking internships and full-time **FrontEnd Developer**, **Backend Developer** or **Software Engineer** roles by **May 2026**. I am open to relocation.
 * 📫 You can reach me at: **shreyasivakumar2005@gmail.com** or on [**LinkedIn**](https://linkedin.com/in/shreyasivak).
-* 😄 Pronouns: she/her
 * ⚡ Fun fact: I have been to four continents!
 
 ---
