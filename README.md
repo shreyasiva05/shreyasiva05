@@ -6,10 +6,15 @@ I am seeking **Developer** roles where I can leverage my experience in **AI/ML**
 
 * I'm currently building with technologies like Agentic AI , TensorFlow , and Terraform.
 * I’m seeking internships and full-time **FrontEnd Developer**, **Backend Developer** or **Software Engineer** roles by **May 2026**. I am open to relocation.
-* You can reach me at: **shreyasivakumar2005@gmail.com** or on [**LinkedIn**](https://linkedin.com/in/shreyasivak).
+* You can reach me at: **shreyasivakumar2005@gmail.com** or on [**Linkedin**](https://linkedin.com/in/shreyasivak).
 * ⚡ Fun fact: I have been to four continents!
 
 ---
+##  My GitHub Stats
+
+[![Shreya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shreyasivak&show_icons=true&theme=radical&hide_border=true)](https://github.com/shreyasivak)
+&nbsp;
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shreyasivak&layout=compact&theme=radical&hide_border=true)](https://github.com/shreyasivak)
 
 ## 🛠️ My Tech Stack
 
