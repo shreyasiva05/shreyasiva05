@@ -10,12 +10,6 @@ I am seeking **Developer** roles where I can leverage my experience in **AI/ML**
 * ⚡ Fun fact: I have been to four continents!
 
 ---
-##  My GitHub Stats
-
-[![Shreya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shreyasivak&show_icons=true&theme=radical&hide_border=true)](https://github.com/shreyasivak)
-&nbsp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shreyasivak&layout=compact&theme=radical&hide_border=true)](https://github.com/shreyasivak)
-
 ## 🛠️ My Tech Stack
 
 | Category | Technologies |
